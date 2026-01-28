@@ -24,8 +24,10 @@ I’m especially interested in projects that turn complex data into clear, usabl
 ---
 
 ## 📌 Selected Projects
-
-
+- London Bikes - Time-Series Analysis & Demand Forecasting
+Performed time-series analysis and exploratory data analysis on London bike-sharing data to identify demand trends and seasonality. Built predictive models and visualizations to derive insights into urban mobility patterns.
+- Chess Game - Interactive Python Game
+Built a fully functional chess game in Python with complete rule implementation, move validation, and check/checkmate logic. Developed an interactive graphical interface using object-oriented design.
 
 ---
 
