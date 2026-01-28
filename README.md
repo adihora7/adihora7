@@ -40,8 +40,8 @@ I’m especially interested in projects that turn complex data into clear, usabl
 ## 🌐 Connect
 
 📧 aadityadihora7@gmail.com  
-💼 LinkedIn: aadity.dihora  
-💻 GitHub: adhora7
+💼 LinkedIn: aaditya.dihora  
+💻 GitHub: adihora7
 
 ---
 
