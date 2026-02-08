@@ -24,9 +24,10 @@ I’m especially interested in projects that turn complex data into clear, usabl
 ---
 
 ## 📌 Selected Projects
-- London Bikes - Time-Series Analysis & Demand Forecasting
+- **Ai-Resume-Analyser** - An intelligent web-based tool that uses AI and NLP to analyze resumes, extract key information, evaluate candidate-job matching, and provide actionable feedback for resume improvement.
+- **London Bikes** - Time-Series Analysis & Demand Forecasting
 Performed time-series analysis and exploratory data analysis on London bike-sharing data to identify demand trends and seasonality. Built predictive models and visualizations to derive insights into urban mobility patterns.
-- Chess Game - Interactive Python Game
+- **Chess Game** - Interactive Python Game
 Built a fully functional chess game in Python with complete rule implementation, move validation, and check/checkmate logic. Developed an interactive graphical interface using object-oriented design.
 
 ---
