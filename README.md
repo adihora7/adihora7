@@ -16,10 +16,10 @@ I’m especially interested in projects that turn complex data into clear, usabl
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, C++, SQL, R, JavaScript  
-**Frameworks & Tools:** React, Flask, Next.js, Git, Jupyter, Tableau  
-**Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Transformers  
-**Focus Areas:** Machine Learning, NLP, Computer Vision, Data Analysis
+- **Languages:** Python, Java, C++, SQL, R, JavaScript  
+- **Frameworks & Tools:** React, Flask, Next.js, Git, Jupyter, Tableau  
+- **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Transformers  
+- **Focus Areas:** Machine Learning, NLP, Computer Vision, Data Analysis
 
 ---
 
